@@ -21,7 +21,7 @@
   - Data preprocessing and exploratory analysis.
   - Statistical modeling for insights.
 
-![Introduction Summary](assets/page4_image.png)
+
 
 ---
 
@@ -42,7 +42,6 @@
   - Correlation and regional comparisons using Kruskal-Wallis tests.
   - Regression models (multivariate and auto-regression).
 
-![Dataset Overview](assets/page6_image.png)
 
 ---
 
@@ -54,7 +53,6 @@
   - Weekly data extraction.
 - **Zero Variance Removal**: Eliminated non-informative variables.
 
-![Data Cleaning Code Example](assets/page12_image.png)
 
 ---
 
@@ -65,19 +63,14 @@
 2. **Key Visualizations**:
    - **Scatter Plot**: Deaths vs. Confirmed Cases
      - Positive correlation observed.
-     - ![Scatter Plot](assets/page17_image.png)
    - **Bar Plot**: Total Deaths by Region
      - Highlights regions with severe impacts.
-     - ![Bar Plot](assets/page18_image.png)
    - **Line Plot**: Cumulative Deaths Over Time
      - Tracks the progression of fatalities.
-     - ![Line Plot](assets/page19_image.png)
    - **Heatmap**: Deaths by Region Over Time
      - Identifies temporal and regional death trends.
-     - ![Heatmap](assets/page23_image.png)
    - **Boxplot**: CFR by Region
      - Analyzes variations in fatality rates.
-     - ![Boxplot](assets/page24_image.png)
 
 ---
 
@@ -88,7 +81,6 @@
 - **Active Cases vs. Deaths**:
   - Indicates ongoing infections influence fatality rates.
 
-![Correlation Matrix](assets/page27_image.png)
 
 ---
 
@@ -97,7 +89,6 @@
    - Used Interquartile Range (IQR) to cap extreme values.
    - Improved consistency by adjusting values.
 
-   ![Before and After Outlier Detection](assets/page32_image.png)
 
 2. **Kruskal-Wallis Test**:
    - Analyzed regional differences in death counts.
@@ -110,13 +101,11 @@
    - Variables: Confirmed Cases, Active Cases, Cured Cases, CFR.
    - Predicted vs. actual deaths showed underestimation for extreme values (>30,000).
 
-   ![Multivariate Regression](assets/page35_image.png)
 
 2. **Auto-Regression**:
    - Time-series modeling for Week 6 predictions.
    - Struggled with underprediction for deaths exceeding 10,000.
 
-   ![Auto-Regression Plot](assets/page37_image.png)
 
 ---
 
@@ -128,7 +117,6 @@
    - Standardize data collection and reporting.
    - Regularly update datasets to reduce inaccuracies.
 
-![Recommendations](assets/page39_image.png)
 
 ---
 
@@ -136,6 +124,5 @@
 - **Summary**: The study effectively analyzed COVID-19 death trends, revealing key drivers and disparities across regions. However, predictive models require refinements to handle extreme cases effectively.
 - **Impact**: Provides actionable insights for policymakers and healthcare strategists.
 
-![Conclusion](assets/page41_image.png)
 
 ---
