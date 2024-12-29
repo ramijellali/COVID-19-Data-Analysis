@@ -1,4 +1,4 @@
-# COVID-19 Data Analysis in India: Insights, Trends, and Recommendations
+# COVID-19 Data Analysis in India: Insights, Trendss, and Recommendations
 
 ## Table of Contents
 1. [Introduction](#introduction)
